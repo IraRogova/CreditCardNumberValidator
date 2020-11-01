@@ -6,8 +6,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-+ [issues1](https://github.com/IraRogova/CreditCardNumberValidator/issues/1)
-+ [issues2](https://github.com/IraRogova/CreditCardNumberValidator/issues/2)
++ [Проверка карт American Express (AMEX)](https://github.com/IraRogova/CreditCardNumberValidator/issues/1)
++ [Проверка 19-ти значных карт VISA](https://github.com/IraRogova/CreditCardNumberValidator/issues/2)
 
 ## Описание процесса тестирования
 

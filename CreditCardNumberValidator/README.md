@@ -6,8 +6,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-+ https://github.com/IraRogova/CreditCardNumberValidator/issues/1
-+ https://github.com/IraRogova/CreditCardNumberValidator/issues/2
++ [issues1](https://github.com/IraRogova/CreditCardNumberValidator/issues/1)
++ [issues2](https://github.com/IraRogova/CreditCardNumberValidator/issues/2)
 
 ## Описание процесса тестирования
 
@@ -15,7 +15,7 @@
 
 Руководство по установке IntelliJ IDEA
 
-В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные [credit-card-number-generator-validator](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 
 VISA:
 + 4755964528449750
